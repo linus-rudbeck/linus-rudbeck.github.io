@@ -15,3 +15,10 @@ I am always looking for new challenges and opportunities to grow and learn in th
 [Purchase complete](/purchase-complete)
 
 [Subscribed](/subscribed)
+
+<a href="/subscribed" data-subvalue="50">Subscribe 50!</a>
+<br>
+<a href="/subscribed" data-subvalue="250">Subscribe 250!</a>
+<br>
+<a href="/subscribed" data-subvalue="500">Subscribe 500!</a>
+<br>
