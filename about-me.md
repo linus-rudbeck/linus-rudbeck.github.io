@@ -1,3 +1,5 @@
 # Om mig
 
 Jag heter Linus Rudbeck och jobbar med programmering. Jag har jobbat med programmering i 5 år. Jag har jobbat med Javascript, React, Node.js, Express, MongoDB, Docker, Kubernetes, HTML, CSS, Git, Github, Bash, Linux, Windows, Mac, Python, Java, C#, C++, C, PHP, SQL, NoSQL, REST, GraphQL, JSON, XML, YAML, Markdown, LaTeX, Vim, Emacs, Visual Studio Code, Visual Studio, IntelliJ, Eclipse, Webpack, Babel, ESLint, Prettier, Jest, Mocha, Chai, Cypress, Selenium, Puppeteer, Gitlab CI, Github Actions, Jenkins, Travis CI, Heroku, Netlify, AWS, Azure, Google Cloud, Digital Ocean, Linux Server Administration, Agile, Scrum, Kanban, XP, TDD, BDD, Pair Programming, Mob Programming, Code Review, Clean Code, Refactoring, Design Patterns, SOLID.
+
+Jag gillar vissa typer av mat.
