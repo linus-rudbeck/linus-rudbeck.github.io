@@ -1,6 +1,6 @@
 # Linus Rudbeck
 
-Jag heter Linus Rudbeck och jobbar med programmering. [Läs mer om mig](./about-me.md)
+Jag heter Linus Rudbeck och jobbar med programmering. [Läs mer om mig](./about-me.md).
 
 ![Linus Rudbeck](./liten-linus.png)
 
