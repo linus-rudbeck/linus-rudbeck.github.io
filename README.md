@@ -1,6 +1,6 @@
 # Linus Rudbeck
 
-Jag heter Linus Rudbeck och jobbar med programmering.
+Jag heter Linus Rudbeck och jobbar med programmering. [Läs mer om mig](./about-me.md)
 
 ![Linus Rudbeck](./liten-linus.png)
 
@@ -30,4 +30,4 @@ Jag jobbade med att **utbilda personer i programmering**. Jag undervisade i Java
 ## Kontakt
 
 - [LinkedIn](https://www.linkedin.com/in/liru/)
-- [linus.rudbeck@distansakademin.se](mailto:linus.rudbeck@distansakademin.se)
+- [linus.rudbeck@distansakademin.se](mailto:linus.rudbeck@distansakademin.se)§
