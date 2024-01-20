@@ -1,33 +1,23 @@
-# Linus Rudbeck
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2:wght@700&display=swap');
 
-Jag heter Linus Rudbeck och jobbar med programmering. [Läs mer om mig](./about-me.md).
+.btn {
+    font-family: 'Baloo Chettan 2', cursive;
+    display: block;
+    padding: 10px 20px;
+    background-color: #2e91fc !important;
+    color: #fff !important;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 1.5em;
+    text-align: center;
+    transition: all 0.4s ease-in-out;
+}
+.btn:hover {
+    background-color: #144b8b !important;
+    text-decoration: none !important;
+}
+</style>
+# Flyttat
 
-![Linus Rudbeck](./liten-linus.png)
-
-## Utbildning
-
-- Portalens Gymnasium
-- JU
-- Självlärd
-
-## Erfarenhet
-
-### Javascriptutvecklare - Jönköping kommun (2019 - nu)
-
-Jag jobbar med att **utveckla en webbapplikation** för att hantera kommunens skolor. Jag jobbar med React, Typescript, Node.js, Express, MongoDB, Docker, Kubernetes. Jag jobbar i ett team med 5 andra utvecklare.
-
-### Utbildare - Distansakademin (2017 - 2019)
-
-Jag jobbade med att **utbilda personer i programmering**. Jag undervisade i Javascript, HTML, CSS, React, Node.js, Express, MongoDB, Docker, Kubernetes. Jag jobbade i ett team med 3 andra utbildare. Jag var även mentor för 10 elever.
-
-## Kompetenser
-
-1. Javascript
-2. React
-3. Node.js
-4. Docker
-
-## Kontakt
-
-- [LinkedIn](https://www.linkedin.com/in/liru/)
-- [linus.rudbeck@distansakademin.se](mailto:linus.rudbeck@distansakademin.se)§
+<a href="https://distansakademin.github.io/" class="btn">distansakademin.github.io »</a>
